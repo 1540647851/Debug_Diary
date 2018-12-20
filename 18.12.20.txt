@@ -1,4 +1,4 @@
-###1. A way to convert list to string
+1. A way to convert list to string
     str="".join(list)
     
 2. Char <-> ascii code
